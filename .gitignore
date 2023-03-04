@@ -44,3 +44,6 @@ test/unittests/fixtures/traces/*.json
 /.vscode/settings.json
 /.vscode/tasks.json
 /.vscode/launch.json
+
+# All JetBrains config
+.idea
